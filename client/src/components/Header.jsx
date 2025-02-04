@@ -22,7 +22,7 @@ const Header = () => {
       </div>
 
 
-      {/* LEFT SIDE   */}
+      {/* Right SIDE   */}
       <div className='w-full max-w-md'>
          <img src={assets.header_img} alt="" className="src" />
       </div>
